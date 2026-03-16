@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1768560179367",
+    "category": "supplements",
+    "name": "sdf",
+    "description": "sdf",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768560179365-177817908.jpg",
+    "createdAt": "2026-01-16T10:42:59.367Z",
+    "updatedAt": "2026-01-16T10:42:59.367Z"
+  },
+  {
+    "id": "1768560318041",
+    "category": "supplements",
+    "name": "wew",
+    "description": "we",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768560318039-36746522.jpg",
+    "createdAt": "2026-01-16T10:45:18.041Z",
+    "updatedAt": "2026-01-16T10:45:18.041Z"
+  }
+]

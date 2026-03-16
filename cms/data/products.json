@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1768560179367",
+    "category": "supplements",
+    "name": "sdf",
+    "description": "sdf",
+    "price": "",
+    "createdAt": "2026-01-16T10:42:59.367Z",
+    "updatedAt": "2026-01-16T10:42:59.367Z"
+  },
+  {
+    "id": "1768560318041",
+    "category": "supplements",
+    "name": "wew",
+    "description": "we",
+    "price": "",
+    "createdAt": "2026-01-16T10:45:18.041Z",
+    "updatedAt": "2026-01-16T10:45:18.041Z"
+  },
+  {
+    "id": "1768562953758",
+    "category": "supplements",
+    "name": "wew",
+    "description": "wow",
+    "price": "",
+    "createdAt": "2026-01-16T11:29:13.758Z",
+    "updatedAt": "2026-01-16T11:29:13.758Z"
+  },
+  {
+    "id": "1768563074317",
+    "category": "supplements",
+    "name": "assa",
+    "description": "assa",
+    "price": "",
+    "createdAt": "2026-01-16T11:31:14.317Z",
+    "updatedAt": "2026-01-16T11:31:14.317Z"
+  },
+  {
+    "id": "1768564049837",
+    "category": "supplements",
+    "name": "dw",
+    "description": "d",
+    "price": "",
+    "createdAt": "2026-01-16T11:47:29.837Z",
+    "updatedAt": "2026-01-16T11:47:29.837Z"
+  },
+  {
+    "id": "1768564065107",
+    "category": "supplements",
+    "name": "cd",
+    "description": "cd",
+    "price": "",
+    "createdAt": "2026-01-16T11:47:45.107Z",
+    "updatedAt": "2026-01-16T11:47:45.107Z"
+  },
+  {
+    "id": "1768564150246",
+    "category": "supplements",
+    "name": "sd",
+    "description": "ds",
+    "price": "",
+    "createdAt": "2026-01-16T11:49:10.246Z",
+    "updatedAt": "2026-01-16T11:49:10.246Z"
+  }
+]

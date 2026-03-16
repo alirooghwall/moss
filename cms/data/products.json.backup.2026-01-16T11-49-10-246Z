@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1768560179367",
+    "category": "supplements",
+    "name": "sdf",
+    "description": "sdf",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768560179365-177817908.jpg",
+    "createdAt": "2026-01-16T10:42:59.367Z",
+    "updatedAt": "2026-01-16T10:42:59.367Z"
+  },
+  {
+    "id": "1768560318041",
+    "category": "supplements",
+    "name": "wew",
+    "description": "we",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768560318039-36746522.jpg",
+    "createdAt": "2026-01-16T10:45:18.041Z",
+    "updatedAt": "2026-01-16T10:45:18.041Z"
+  },
+  {
+    "id": "1768562953758",
+    "category": "supplements",
+    "name": "wew",
+    "description": "wow",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768562953755-377751811.jpg",
+    "createdAt": "2026-01-16T11:29:13.758Z",
+    "updatedAt": "2026-01-16T11:29:13.758Z"
+  },
+  {
+    "id": "1768563074317",
+    "category": "supplements",
+    "name": "assa",
+    "description": "assa",
+    "price": "",
+    "image": "/uploads/products/Yes Man SSHUIB.mkv_snapshot_00.12.35_[2025.12.13_19.08.44]-1768563074315-236367076.jpg",
+    "createdAt": "2026-01-16T11:31:14.317Z",
+    "updatedAt": "2026-01-16T11:31:14.317Z"
+  },
+  {
+    "id": "1768564049837",
+    "category": "supplements",
+    "name": "dw",
+    "description": "d",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768564049836-234866545.jpg",
+    "createdAt": "2026-01-16T11:47:29.837Z",
+    "updatedAt": "2026-01-16T11:47:29.837Z"
+  },
+  {
+    "id": "1768564065107",
+    "category": "supplements",
+    "name": "cd",
+    "description": "cd",
+    "price": "",
+    "image": "/uploads/products/WhatsApp Image 2025-11-28 at 09.11.56_76046e8e-1768564065106-668849906.jpg",
+    "createdAt": "2026-01-16T11:47:45.107Z",
+    "updatedAt": "2026-01-16T11:47:45.107Z"
+  }
+]
